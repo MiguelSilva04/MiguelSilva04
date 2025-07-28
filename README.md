@@ -6,7 +6,7 @@ I have hands-on experience in both academic and professional projects — from m
 **Some of my current focuses:**
 - 📱 Mobile application development with **Flutter**  
 - 🎨 Designing intuitive and accessible user interfaces  
-- 🧱 Building robust systems using **C#** and **SQL**  
+- 🧠 Building full-stack applications inspired by FluxNote using Next.js, React, TypeScript, Prisma, PostgreSQL and Firebase 
 - 🤝 Team collaboration and agile methodologies  
 
 
