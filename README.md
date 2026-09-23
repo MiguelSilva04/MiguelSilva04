@@ -18,10 +18,9 @@ Computer Engineering graduate (IPS) moving into Cloud & DevOps, with hands-on ex
 - 😄 Pronouns: he/him<br>
 
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/miguelsilva04) 
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-silva75) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guesilva2004@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miguelsilva9281@gmail.com) 
 
 # 💻 Tech Stack:
 
