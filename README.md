@@ -9,7 +9,7 @@ Computer Engineering graduate (IPS) moving into Cloud & DevOps, with hands-on ex
 - ⚙️ CI/CD pipelines with **GitHub Actions**
 
 ## 💫 About Me:
-- 🔭 Currently building **DevShip**, an Internal Developer Platform on AWS EKS — my final degree project, defended with an 18/20. It runs on Kubernetes with Terraform-provisioned infra, a full GitOps pipeline (ArgoCD + GitHub Actions), and AWS STS/IAM-based access control.<br>
+- 🔭 I built **DevShip**, an Internal Developer Platform on AWS EKS — my final degree project, defended with an 18/20. It runs on Kubernetes with Terraform-provisioned infra, a full GitOps pipeline (ArgoCD + GitHub Actions), and AWS STS/IAM-based access control.<br>
 - 💼 Software Developer at **HelloFarmer**, where I led a full migration from Flutter/Firebase to React/Supabase with zero downtime, and rebuilt the checkout flow from 7 steps down to 3.<br>
 - 🌱 Deepening my DevOps skills through hands-on labs: Terraform on AWS, Kubernetes networking, EKS clusters with ALB/Ingress, Karpenter autoscaling.<br>
 - 👯 Looking to connect with people working in Cloud, DevOps, and Platform Engineering.<br>
