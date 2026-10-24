@@ -14,12 +14,12 @@ Computer Engineering graduate (IPS) moving into Cloud & DevOps, with hands-on ex
 - 🌱 Deepening my DevOps skills through hands-on labs: Terraform on AWS, Kubernetes networking, EKS clusters with ALB/Ingress, Karpenter autoscaling.<br>
 - 👯 Looking to connect with people working in Cloud, DevOps, and Platform Engineering.<br>
 - 💬 Ask me about AWS EKS, Terraform, GitOps with ArgoCD, or Docker multi-stage builds.<br>
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miguel-silva75/) · [Portfolio](https://miguelsilva.vercel.app) · [GitHub](https://github.com/MiguelSilva04)<br>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miguel-caeiro-silva/) · [Portfolio](https://miguelcaeirosilva.com) · [GitHub](https://github.com/MiguelSilva04)<br>
 - 😄 Pronouns: he/him<br>
 
 
 ## 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-silva75) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-caeiro-silva) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miguelsilva9281@gmail.com) 
 
 # 💻 Tech Stack:
